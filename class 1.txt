@@ -1,0 +1,28 @@
+Game
+     Player
+     Aim
+     Enemy
+     Menu
+     Hud  (heads up display)  score life
+     Collectables
+     Game over
+     Level Complete
+     Sound
+     
+Development
+     GPU          RAM
+     Tools   -unreal engine   c++ || blueprint
+     Unity  -C# || 
+     Construct 3   ||  2D
+     lighting system
+
+
+Idea  
+     Unique
+     duplicate 
+     feature add
+
+
+Sprite   2D  // assets      
+
+      
